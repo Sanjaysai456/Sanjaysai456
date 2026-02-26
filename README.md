@@ -120,5 +120,4 @@
 
 - 📍 Hyderabad, Telangana
 - 📧 sanjaysai.poloji23@st.niituniversity.in
-- 🔗 LinkedIn
-- 🐙 GitHub
+
