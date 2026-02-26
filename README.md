@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sanjay Sai</h1>
+<h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
 
-<!--
-**Sanjaysai456/Sanjaysai456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🎓 I'm currently a B.Tech student  
+- 🚀 I’m currently working on AI & Full Stack Projects  
+- 🌱 I’m learning Advanced Machine Learning  
+- 💬 Ask me about Node.js, React, AI  
+- ⚡ Fun fact: I love building real-world systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Languages and Tools:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,mongodb,html,css,git,github,linux" />
+</p>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjaysai456&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaysai456&layout=compact&theme=radical" />
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Full+Stack+Developer;Open+Source+Contributor&center=true&width=500&height=50">
+</p>
