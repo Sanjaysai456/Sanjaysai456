@@ -22,7 +22,7 @@
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,sql,r" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,mysql,r" />
 </p>
 
 ### 🗄 Databases
