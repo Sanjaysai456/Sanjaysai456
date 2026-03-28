@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Poloji Sanjay Sai</h1>
-<h3 align="center">Data Science Undergraduate | Data Analyst | Machine Learning Enthusiast 🚀</h3>
+<h3 align="center">Software Developer | Data Science & AI Enthusiast | Backend Engineer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Exploratory+Data+Analysis;Machine+Learning+Projects;Cloud+ML+Deployment&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer+%7C+APIs+%7C+System+Design;Data+Science+%7C+Machine+Learning+%7C+RAG;Node.js+%7C+Python+%7C+SQL;Cloud+%7C+Docker+%7C+CI/CD;Building+Scalable+%26+Intelligent+Systems&center=true&width=650&height=45">
 </p>
 
 ---
@@ -10,105 +10,112 @@
 # 🎓 About Me
 
 - 🎓 **B.Tech in Data Science @ NIIT University** (CGPA: **9.17**)
-- 📊 Passionate about **Data Analytics, Exploratory Data Analysis (EDA), and extracting actionable insights**
-- 🐍 Skilled in **Python, SQL, Pandas, NumPy for data analysis**
-- 📈 Experienced in **data visualization using Power BI, Tableau, Matplotlib & Seaborn**
-- 🤖 Interested in **Machine Learning for predictive analytics**
-- 👨‍🏫 Peer-to-Peer Tutor (Python & Data Science)
-- 🌌 Coordinator – Astria Astronomy Club
+- 💻 Strong in **Data Structures, Algorithms, and OOP**
+- ⚙️ Build **scalable backend systems & real-time applications**
+- 🤖 Experienced in **Machine Learning, RAG, and AI systems**
+- ☁️ Skilled in **AWS, Docker, CI/CD pipelines**
+- 👨‍🏫 Mentored **20+ students in DSA, Python & ML**
 
 ---
 
 # 🚀 Tech Stack
 
-## 💻 Programming Languages
+## 💻 Programming
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,r,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,js,python,sql"/>
 </p>
 
 ---
 
-# 📊 Data Analytics & Visualization
+## ⚙️ Software Development (Primary)
 
-- **Pandas**
-- **NumPy**
-- **Matplotlib**
-- **Seaborn**
-- **Power BI**
-- **Tableau**
-- **Exploratory Data Analysis (EDA)**
-- **Statistical Analysis**
+- **Node.js, Express.js**
+- REST API Development  
+- System Design Basics  
+- RBAC & Authentication  
+- Real-time systems (WebSockets, Socket.io)  
 
 ---
 
-# 🗄 Databases
+## 🧠 Data Science & AI (Secondary)
+
+- Pandas, NumPy, Scikit-learn  
+- Machine Learning Models  
+- NLP, RAG (LangChain, LangGraph, FAISS)  
+- Data Analysis & Feature Engineering  
+
+---
+
+## 🗄 Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
 </p>
 
-- SQL Querying  
-- Data Extraction & Transformation  
-- Relational Data Analysis  
+- Data Modeling  
+- Query Optimization  
 
 ---
 
-# 🤖 Machine Learning
-
-- Scikit-learn
-- Classification & Regression Models
-- Random Forest
-- Logistic Regression
-- Model Evaluation & Feature Analysis
-
----
-
-# ☁️ MLOps & Deployment
+## ☁️ DevOps & Cloud
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,jenkins"/>
 </p>
 
-- Docker Containerization
-- CI/CD Pipelines
-- AWS EC2 Deployment
-- MLflow Model Tracking
-
----
-
-# 🌐 Tools & Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,linux,flask,nodejs,react"/>
-</p>
+- Docker Containerization  
+- CI/CD Pipelines  
+- AWS EC2 Deployment  
 
 ---
 
 # 🔬 Featured Projects
 
-## 📦 Supply Chain Risk Analytics & Predictive Monitoring
+## 🛒 SYNCStore – Real-Time Inventory System (SDE)
 
-- Analyzed **3,000+ supply chain operational records** using Python (Pandas, NumPy)
-- Performed **EDA and SQL analysis** to identify key risk drivers like delivery delays and vibration levels
-- Built **machine learning models** to predict operational risk levels
-- Developed **Power BI dashboard** for monitoring supply chain performance and risk indicators
+- Built a **full-stack inventory system with real-time synchronization**
+- Developed **scalable REST APIs (Node.js + Express)**
+- Designed **RBAC system & concurrent update handling**
+- Integrated **QR-based tracking for offline-online sync**
 
 ---
 
-## 🚨 Open-Set Recognition of Novel DDoS Attack Patterns
+## 🤖 Medimate – Medical AI Assistant (RAG + NLP)
 
-- Analyzed **70+ network traffic features** to detect anomalies and cyber attack patterns
-- Applied **Open-Set Machine Learning (RPL)** to identify previously unseen attacks
-- Built an **end-to-end ML pipeline** from data ingestion to deployment
-- Deployed system using **Docker + AWS + CI/CD**
+- Built **RAG-based chatbot for clinical document querying**
+- Designed pipeline: **PDF → chunking → embeddings → FAISS**
+- Improved response accuracy by **~30% using Llama 3 (Groq)**
+- Added **source attribution → improved explainability**
 
-## 🤖 End-to-End Agentic AI Data Assistant
+---
 
-- Built a **multi-agent AI system using LangGraph** capable of retrieving and analyzing real-time information.
-- Integrated **external APIs and tools** for automated data retrieval and summarization.
-- Implemented **RAG-based architecture** for contextual data querying and knowledge retrieval.
-- Designed a **Dockerized deployment pipeline with CI/CD** for scalable system execution.
+## 🌐 Multi-Agent AI System (Backend + AI)
+
+- Built **multi-agent system (LangGraph, 3+ agents)**
+- Integrated APIs → improved response relevance by **~25%**
+- Deployed using **Docker + AWS EC2**
+- Implemented **Jenkins CI/CD → reduced manual effort by ~70%**
+
+---
+
+## 🛡 Network Threat Detection System (Backend + ML)
+
+- Built **multi-stage pipeline (ingestion → prediction)**
+- Processed **20+ features → improved efficiency by ~30%**
+- Applied ML models for anomaly detection
+- Deployed with **Docker + AWS + CI/CD**
+
+---
+
+# 🧠 Core Concepts
+
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- DBMS  
+- Operating Systems  
+- System Design Basics  
+
 ---
 
 # 📊 GitHub Stats
@@ -121,9 +128,10 @@
 
 # 🏆 Achievements
 
-- 🥈 **First Runner-Up – Predictive Precision ML Model Competition (NIIT University)**
-- 👨‍🏫 **Peer-to-Peer Tutor** mentoring 20+ students in Python & Data Science
-- 🌌 **Coordinator – Astria Astronomy Club**
+- 🥈 First Runner-Up – ML Competition (NIIT University)  
+- 📄 Research Paper – ICICV 2026 (Maze Solving Algorithms)  
+- 👨‍🏫 Mentored 20+ students in DSA & Programming  
+- 🌌 Coordinator – Astria Astronomy Club  
 
 ---
 
