@@ -28,7 +28,7 @@
 
 ---
 
-## ⚙️ Software Development (Primary)
+## ⚙️ Software Development 
 
 - **Node.js, Express.js**
 - REST API Development  
@@ -38,7 +38,7 @@
 
 ---
 
-## 🧠 Data Science & AI (Secondary)
+## 🧠 Data Science & AI 
 
 - Pandas, NumPy, Scikit-learn  
 - Machine Learning Models  
